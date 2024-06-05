@@ -172,7 +172,7 @@ textarea{
     z-index: 10;
 }
 .information{
-    width: 83%;
+    width: 1115px;
     height: 500px;
     border-radius: 22px;
     background: #483EFF;
@@ -190,7 +190,7 @@ textarea{
     display: block;
     width: 250px;
     height: 80px;
-    margin-top: 70px;
+    margin-top: 60px;
     margin-left: 20px;
     border-radius: 15px;
     font-size: 23px;
@@ -208,7 +208,7 @@ textarea{
 .sec2{
     margin-left: 40px;
     margin-top: 25px;
-    width: 67%;
+    width: 740px;
     height: 450px;
     border-radius: 20px;
     background: white;
