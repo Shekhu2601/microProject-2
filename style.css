@@ -97,7 +97,7 @@ textarea{
     line-height: 30px;
     
   font-family: 'Courier New', Courier, monospace;
-    width: 50vw;
+    width: 680px;
     height: 340px;
     margin-left:30px;
     margin-right: 10px;
@@ -136,12 +136,12 @@ textarea{
     height: 80px;
     border-radius: 10px;
     color:white;
-    margin-left: 60px;
+    margin-left: 3.7rem;
     
 }
 .b1{
     margin-top: 12px;
-    margin-left: 40px;
+    margin-left: 1.5rem;
 }
 .box1{
     background: #929DFF;
